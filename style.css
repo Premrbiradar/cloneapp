@@ -125,7 +125,7 @@ body {
   display: flex;
   gap: 20px;
   margin: 20px auto;
-  width: 1200px;
+  width: 990px;
 }
 
 .imgdiv2,
@@ -266,4 +266,5 @@ body {
   background: #333;    /* line color */
   margin: 20px auto;      /* spacing above/below */
 }
+
 
